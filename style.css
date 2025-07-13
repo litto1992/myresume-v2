@@ -37,10 +37,4 @@ a{
 .bottom a{
     color: rgb(239, 154, 7);
 }
-.plan-button{
-    color: aliceblue;
-    background-color: rgb(53, 16, 185);
-    border-radius: 10px;
-    padding: 5px;
-    border: none;
-}
+
